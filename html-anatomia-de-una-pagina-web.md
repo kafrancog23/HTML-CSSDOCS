@@ -27,4 +27,4 @@ HTML (HyperText Markup Language) es un lenguaje de marcado de texto. Se utiliza 
     * Markup significa que le pone etiquetas a los elementos. Por eso también se le conoce como un lenguaje de etiquetas.\
       HTML es un lenguaje interpretado. Además, HTML es un estándar, así que no importa desde qué navegador o dispositivo se ejecute, el código sigue siendo el mismo en cualquier sitio.
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
