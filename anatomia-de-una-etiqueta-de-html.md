@@ -13,4 +13,4 @@ description: >-
 * Lo que va dentro de la etiqueta de apertura es un atributo (nombre del atributo = href y el valor del atributo es la url).
 * El contenido + la etiqueta = Elemento
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)

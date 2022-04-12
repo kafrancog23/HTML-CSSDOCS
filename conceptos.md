@@ -15,7 +15,7 @@ Es lenguaje que se emplea para crear o brindar a las páginas web la capacidad d
 ### Diferencias entre HTML, CSS y JavaScript
 
 * HTML es la estructura, como si fuese el esqueleto de un ser humano o los cimientos de un edificio. Por ejemplo: una página web que funciona, pero sin interactividad, colores ni diseño.
-* CSS corresponde a lo estético, como la piel de ser humanos. La pintura y a![](<.gitbook/assets/image (1).png>)dornos de los edificios o la manera en que es posible que la estructura del html se vea mejor para los usuarios.
+* CSS corresponde a lo estético, como la piel de ser humanos. La pintura y a![](<.gitbook/assets/image (1) (1).png>)dornos de los edificios o la manera en que es posible que la estructura del html se vea mejor para los usuarios.
 * JavaScript equivale a los músculos, lo que da esa interactividad a las personas para moverse y realizar acciones como correr.
 
 \

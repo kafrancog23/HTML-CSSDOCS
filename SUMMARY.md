@@ -16,3 +16,7 @@
 * [☮ Etiqueta form e input](etiqueta-form-e-input.md)
 * [☮ Autocomplete y require](autocomplete-y-require.md)
 * [☮ Select](select.md)
+* [☮ ¿Cómo utilizamos CSS?: por etiqueta, selector, class y por ID](como-utilizamos-css-por-etiqueta-selector-class-y-por-id.md)
+* [☮ Pseudo clases y pseudo elementos](pseudo-clases-y-pseudo-elementos.md)
+* [☮ Anatomía de una regla de CSS](anatomia-de-una-regla-de-css.md)
+* [☮ Modelo de Caja](modelo-de-caja.md)
