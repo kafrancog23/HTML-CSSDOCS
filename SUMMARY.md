@@ -20,3 +20,4 @@
 * [☮ Pseudo clases y pseudo elementos](pseudo-clases-y-pseudo-elementos.md)
 * [☮ Anatomía de una regla de CSS](anatomia-de-una-regla-de-css.md)
 * [☮ Modelo de Caja](modelo-de-caja.md)
+* [☮ Herencia](herencia.md)
