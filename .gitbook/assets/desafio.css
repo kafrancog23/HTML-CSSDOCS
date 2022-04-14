@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+   
+}
+body{
+    background-image: url(../pexels-gradienta-7135028.jpg);
+    width: 100vw;
+    height: 100vh;
+}
+.titulo{
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    position: relative;;
+}
+.titulo h1{
+    font-size: 60px;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.padre{
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.box{
+    
+    display: inline-flex;
+    background-color: #fff;
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 25px  #800080;
+  
+}
+
+.box:hover{
+    background-color: #aa8caf;
+    color: #800080;
+
+}
+
+.img-uno{
+    width: 4rem;
+    height: 4rem;
+    margin: 1rem 4.1rem;
+    
+}
+
+#uno p{
+    font-size: small;
+    margin-top: 0.1rem;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+footer{
+    text-align: center;
+    margin-bottom: 0;
+}
+ footer h4{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 1rem;
+     color:#fff ;
+ }
