@@ -35,3 +35,8 @@
 * [☮ Flexbox layouts](flexbox-layouts.md)
 * [☮ Variables](variables.md)
 * [☮ Web fonts](web-fonts.md)
+* [☮ Responsive Design: Media Queries.](responsive-design-media-queries..md)
+* [☮ Estrategias de responsive: mostly fluid](estrategias-de-responsive-mostly-fluid.md)
+* [☮ Semantica](semantica.md)
+* [☮ Textos](textos.md)
+* [☮ Labels, Alt y Titles](labels-alt-y-titles.md)
