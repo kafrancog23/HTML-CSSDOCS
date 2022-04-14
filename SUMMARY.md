@@ -31,3 +31,7 @@
 * [☮ Max/Min width](max-min-width.md)
 * [☮ Position](position.md)
 * [☮ Display](display.md)
+* [☮ Display Flex](display-flex.md)
+* [☮ Flexbox layouts](flexbox-layouts.md)
+* [☮ Variables](variables.md)
+* [☮ Web fonts](web-fonts.md)
